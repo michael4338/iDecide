@@ -1,14 +1,32 @@
-# iDecide
-SwiftUI app that helps users to make decisions intelligently
+# iDecide intelligence - Decision Making Assistant
 
-Key Features (v1.0)
+A SwiftUI app that helps users make decisions intelligently.
 
-1. Add/Edit/Delete decisions
-2. Inside a particular decision
-   a. Add/Edit/Delete factors
-   b. Add/Edit/Delete options
-   c. Display Options with Factors and Scores
-4. Let users select one option as the decided one
-5. Generate report with all the details
+## Key Features (v1.0)
 
-We'd love to hear from you! If you have any questions, run into issues, or have feature suggestions, please don't hesitate to report them here. Your feedback helps us make the app better for everyone. Thank you for your support!
+### 1. Decision Management
+- Add decisions
+- Edit decisions
+- Delete decisions
+
+### 2. Decision Details
+- Add/Edit/Delete factors
+- Add/Edit/Delete options 
+- Display Options with Factors and Scores
+
+### 3. Decision Making
+- Select one option as the final decision
+
+### 4. Reporting
+- Generate comprehensive reports with all details
+
+## Feedback
+
+We'd love to hear from you! If you:
+- Have any questions
+- Run into issues
+- Have feature suggestions
+
+Please don't hesitate to report them here. Your feedback helps us make the app better for everyone.
+
+Thank you for your support!
